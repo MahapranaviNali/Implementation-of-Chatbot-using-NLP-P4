@@ -301,8 +301,44 @@
     ],
     "responses": [
       "Here are a few well-regarded restaurants in Andhra Pradesh:Sri Venkateswara Annapoorna Restaurant (Guntur)Famous for its Andhra-style meals, especially the Gongura Pachadi and Pulusu.",
-      "Boardwalk Restaurant (Visakhapatnam): Offers stunning views of the Bay of Bengal and serves a variety of seafood dishes.",
-      "Rayalaseema Ruchulu (Hyderabad): Focuses on the spicy and flavorful cuisine of the Rayalaseema region, with dishes like Chicken Pulusu and Mirapakaya Bajji."
+      "Boardwalk Restaurant (Visakhapatnam): Offers stunning views of the Bay of Bengal and serves a variety of seafood dishes.",  
+    ]
+  }
+  ,
+  {
+    "tag": "RestaurantSearch",
+    "Patterns": [
+      "Find restaurants in [City]",
+      "Restaurants in [City]",
+      "Show me restaurants in [City]",
+      "I want to eat in [City], suggest some places"
+    ],
+    "responses": [
+      "Bezawada Dhaba: Benz circle",
+      "Cafe Terrase at Road No. 1, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008, India. It has a 4.7 star rating on Google Maps.",
+      "90's Cafe & Restaurant at Plot:552, NH16 service road, service road, near Novotel, Service Road, Beside Union Bank, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008, India.1 It has a 4 star rating on Google Maps.   ",
+      "[Restaurant 4 Name]: [Speciality] - [Location]",
+      "Delight Dhaba at Delight Dhaba,Near Spencer's Trunk road, FH2G+R7V, Yerrabalem Rd, Mangalagiri, Andhra Pradesh 522503, India. It has a 4.2 star rating on Google Maps.",
+      "[Restaurant 6 Name]: [Speciality] - [Location]",
+      "STAR DHABA AND FAMILY RESTAURANT at HJ3F+746, SH 236, Vijayawada, Andhra Pradesh 520001, India. It has a 3.9 star rating on Google Maps.",
+      "[Restaurant 8 Name]: [Speciality] - [Location]",
+      "Kushi Dhaba at vijayawada Ruler, Highway, beside sri chaitanya Hostel, opposite HP Petrol Bunk, Nidamanuru, Vijayawada, Done Atkuru, Andhra Pradesh 521104, India. It has a 3.9 star rating on Google Maps.",
+      "Aloha cafe at Sri kanakadurga, 54-27/7-2, Rd Number 2, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008, India. It has a 4.4 star rating on Google Maps.",
+      "Zero The Resto Cafe: Plot no:150, opp. NCC canteen, Lawsons Bay Colony, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017, India. It has a 4.1 star rating on Google Maps.",
+      "V Hangout Resto Cafe: 5-189/10, revenue ward 6, 45, Chinna Bazaar, Rushikonda, Visakhapatnam, Andhra Pradesh 530045, India. It has a 4.2 star rating on Google Maps.",
+      "Gypsy Resto Cafe: Firing Range Rd, Yendada, Visakhapatnam, Andhra Pradesh 530045, India. It has a 4.2 star rating on Google Maps.",
+      "Brew n Bistro Café: Ground Madhu Dwarapu, Garden Building, 102, Beach Rd, near KKR Goutham School, Lawsons Bay Colony, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017, India. It has a 4.2 star rating on Google Maps.",
+      "Beyond Temptations Vizag: 24-3, Plot No: 1, Beach Rd, beside Ambica Sea green, Kirlampudi Layout, Chinna Waltair, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017, India. It has a 4.7 star rating on Google Maps.",
+      "R One Punjabi Dhaba Multicuisine Restaurant: Horse Race Club, Kakani Road, opposite Mahindra Showroom, Agatha Varappadu, Guntur, Andhra Pradesh 522001, India. It has a 4.6 star rating on Google Maps.",
+      "Forque Kitchen & Cafe: Beside Dumont Creamery, 1-2-75, JKC College Rd, Vikas Nagar, Guntur, Andhra Pradesh 522006, India. It has a 4.6 star rating on Google Maps.",
+      "Brewbakes Guntur: Main road Brindavan Gardens , Siva complex, Brindavan Gardens, Guntur, Andhra Pradesh 522006, India. It has a 4.2 star rating on Google Maps.",
+      "WelcomCafe: 4-5, Welcomhotel By ITC Hotels, 10, Ring Rd, Vidyanagar, Guntur, Andhra Pradesh 522007, India. It has a 4.8 star rating on Google Maps.",
+      "The Hangout: Dr no : 5-87, 40/2, Lakshmipuram Main Rd, beside LIFE STYLE AND CENTRO FOOT WARE, Ashok Nagar, Guntur, Andhra Pradesh 522007, India. It has a 4 star rating on Google Maps.",
+      "Kumbakonam Premium Coffee: G24M+M86, Mangamuru Rd, near Andhra Bank, Pandaripuram, Ongole, Andhra Pradesh 523001, India. It has a 4.7 star rating on Google Maps.",
+      "Fruitify Café: 7, VIP Road, Lawyer Pet Extension, Ongole, Andhra Pradesh 523001, India. It has a 4 star rating on Google Maps.",
+      "Lasya Grand Restaurant: near Chimakurthy Road, Samatha Nagar, Virat Nagar, Ongole, Andhra Pradesh 523001, India. It has a 4.8 star rating on Google Maps.",
+      "Zeebu Restaurant & Cafe: NH 16, Highway Bridge, near Pelluru, opposite to Saibaba Central School, Pelluru, Ongole, Andhra Pradesh 523001, India. It has a 4.2 star rating on Google Maps.",
+      "Beyond Temptation: Balajiraopeta, beside poleramma temple complex, near Lawyer pet, Lawyer Pet, Ongole, Andhra Pradesh 523001, India. It has a 4.5 star rating on Google Maps."
     ]
   }
 ]
