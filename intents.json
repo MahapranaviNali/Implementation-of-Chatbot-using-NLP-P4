@@ -1,0 +1,308 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": [
+      "Hi",
+      "Hello",
+      "Hey",
+      "Good morning",
+      "Good afternoon",
+      "Good evening",
+      "Namaste",
+      "Vanakkam",
+      "Hello there",
+      "Greetings",
+      "How are you?",
+      "How's it going?",
+      "What's up?",
+      "Hey there",
+      "Hi there",
+      "Hello there",
+      "Greetings",
+      "Good day",
+      "Good to see you",
+      "How do you do?"
+    ],
+    "responses": [
+      "Hello! How can I help you today?",
+      "Hi there! Welcome to our Andhra Pradesh restaurant finder.",
+      "Good day! What are you looking for?",
+      "Namaste! How can I assist you?",
+      "Vanakkam! Ready to find your perfect Andhra meal?",
+      "Hello! Let's find you the best Andhra restaurants.",
+      "Hi! What kind of food are you craving?",
+      "Good morning! Looking for breakfast or lunch?",
+      "Good afternoon! Time for some Andhra delicacies?",
+      "Good evening! Ready for dinner?",
+      "Hey there! What's your food preference?",
+      "Hi there! Let's explore Andhra's culinary scene.",
+      "Hello there! What brings you here today?",
+      "Greetings! How can I help you with your dining experience?",
+      "Good day! Let's find the perfect restaurant for you.",
+      "Good to see you! What are you looking for today?",
+      "How do you do? Welcome to Andhra's food paradise.",
+      "Hello! Let's find the best Andhra restaurants for you.",
+      "Hi! What kind of Andhra food are you craving?",
+      "Good morning! Ready for a delicious Andhra breakfast?"
+    ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+      "Bye",
+      "Goodbye",
+      "See you later",
+      "See you soon",
+      "Take care",
+      "Have a good day",
+      "Have a nice day",
+      "Bye-bye",
+      "So long",
+      "Farewell",
+      "Tata",
+      "Cheerio",
+      "Peace out",
+      "Catch you later",
+      "I'm off",
+      "I'm leaving",
+      "I'll be going now",
+      "Talk to you later",
+      "It was nice talking to you",
+      "Thank you, goodbye"
+    ],
+    "responses": [
+      "Goodbye! Have a great day.",
+      "See you later! Enjoy your meal.",
+      "Take care! Bon appétit.",
+      "Have a nice day! Thank you for chatting.",
+      "Bye-bye! Come back soon.",
+      "So long! Enjoy your Andhra food adventure.",
+      "Farewell! Happy eating.",
+      "Tata! See you next time.",
+      "Cheerio! Bon voyage with Andhra cuisine.",
+      "Peace out! Enjoy your meal.",
+      "Catch you later! Don't forget to try some Biryani.",
+      "I'm off! Have a delicious day.",
+      "I'm leaving! Enjoy your Andhra culinary journey.",
+      "I'll be going now! Thank you for chatting.",
+      "Talk to you later! Happy eating.",
+      "It was nice talking to you! Enjoy your meal.",
+      "Thank you, goodbye! Come back for more Andhra food recommendations.",
+      "Bye! Have a wonderful day.",
+      "Goodbye! Enjoy your Andhra food exploration.",
+      "See you later! Don't forget to try some Pulusu."
+    ]
+  },
+  {
+    "tag": "thanks",
+    "patterns": ["Thank you", "Thanks", "Thanks a lot", "I appreciate it"],
+    "responses": ["You're welcome", "No problem", "Glad I could help"]
+  },
+  {
+    "tag": "about",
+    "patterns": [
+      "What can you do",
+      "Who are you",
+      "What are you",
+      "What is your purpose"
+    ],
+    "responses": [
+      "I am a chatbot",
+      "My purpose is to assist you",
+      "I can answer questions and provide assistance"
+    ]
+  },
+  {
+    "tag": "help",
+    "patterns": ["Help", "I need help", "Can you help me", "What should I do"],
+    "responses": [
+      "Sure, what do you need help with?",
+      "I'm here to help. What's the problem?",
+      "How can I assist you?"
+    ]
+  },
+  {
+    "tag": "name",
+    "patterns": [
+      "What's your name",
+      "Do you have a name",
+      "What should I call you"
+    ],
+    "responses": ["You can call me Ada.", "My name is Ada."]
+  },
+  {
+    "tag": "favorite_color",
+    "patterns": ["What's your favorite color", "Do you like any color"],
+    "responses": [
+      "I'm a chatbot, so I don't have a favorite color.",
+      "As an AI, I don't have preferences like humans do."
+    ]
+  },
+  {
+    "tag": "hobby",
+    "patterns": ["What do you do for fun", "Do you have any hobbies"],
+    "responses": [
+      "I don't have hobbies as I'm here to assist you.",
+      "I'm always ready to chat with you, so that's my favorite thing to do!"
+    ]
+  },
+  {
+    "tag": "time",
+    "patterns": ["What's the time", "Can you tell me the time"],
+    "responses": [
+      "I'm sorry, but I don't have access to real-time information like the current time.",
+      "You can check the time on your device or use a clock."
+    ]
+  },
+  {
+    "tag": "joke",
+    "patterns": ["Tell me a joke", "Do you know any jokes", "Make me laugh"],
+    "responses": [
+      "Why don’t scientists trust atoms? Because they make up everything!",
+      "Why don't skeletons fight each other? They don't have the guts!",
+      "Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing to avoid them!"
+    ]
+  },
+  {
+    "tag": "food",
+    "patterns": [
+      "What's your favorite food",
+      "Do you like to eat",
+      "Tell me about food"
+    ],
+    "responses": [
+      "As a chatbot, I don't eat, but I'm here to help with any questions you have about food!",
+      "I may not have taste buds, but I can assist you in finding recipes or restaurants!"
+    ]
+  },
+  {
+    "tag": "movies",
+    "patterns": [
+      "What's your favorite movie",
+      "Recommend me a movie",
+      "Tell me about movies"
+    ],
+    "responses": [
+      "As an AI, I don't watch movies, but I can suggest some popular ones like The Shawshank Redemption, Inception, or The Godfather.",
+      "I may not have personal preferences, but I can help you find movies based on your taste!"
+    ]
+  },
+  {
+    "tag": "technology",
+    "patterns": [
+      "What's the latest tech news",
+      "Tell me about technology",
+      "What's new in tech"
+    ],
+    "responses": [
+      "As an AI language model, I don't have real-time data, but you can check technology news websites for the latest updates.",
+      "Technology is constantly evolving. Stay updated with tech blogs and news sites to know about the latest advancements!"
+    ]
+  },
+  {
+    "tag": "compliment",
+    "patterns": ["You're awesome", "You're great", "I like you"],
+    "responses": [
+      "Thank you! I'm just a program, but I'm here to assist and make your experience better.",
+      "I'm glad you think so! My purpose is to help and provide useful information."
+    ]
+  },
+  {
+    "tag": "restaurant_search",
+    "patterns": [
+      "Find me a restaurant",
+      "I'm looking for a restaurant",
+      "Where can I find good food?",
+      "Suggest a restaurant",
+      "I want to eat out",
+      "I'm hungry",
+      "I'm craving something",
+      "What are some good restaurants here?",
+      "I need a restaurant recommendation",
+      "Help me find a place to eat",
+      "I'm looking for a specific type of restaurant",
+      "I want to try some Andhra cuisine",
+      "Where can I find authentic Andhra food?",
+      "I'm looking for a restaurant with a specific ambiance",
+      "I need a restaurant for a special occasion",
+      "I'm looking for a restaurant in a specific area",
+      "I want to find a restaurant with a specific price range",
+      "I'm looking for a restaurant with outdoor seating",
+      "I'm looking for a restaurant with live music",
+      "I'm looking for a restaurant with a specific cuisine"
+    ],
+    "responses": [
+      "Sure, let me help you find the perfect restaurant. What kind of food are you looking for?",
+      "I can help you with that! What type of cuisine are you interested in?",
+      "No problem! What's your budget and preferred location?",
+      "I'm on it! Do you have any specific preferences, like ambiance or cuisine?",
+      "Absolutely! Tell me more about what you're looking for.",
+      "I can definitely assist you. What kind of dining experience are you hoping for?",
+      "Let's find the perfect spot for you. What kind of food are you craving?",
+      "I'm happy to help! Do you have any specific requirements, like dietary restrictions?",
+      "No problem! What's your budget and preferred location?",
+      "I can help you with that! What type of cuisine are you interested in?",
+      "Sure, let me help you find the perfect restaurant. What kind of food are you looking for?",
+      "I can help you with that! What type of cuisine are you interested in?",
+      "No problem! What's your budget and preferred location?",
+      "I'm on it! Do you have any specific preferences, like ambiance or cuisine?",
+      "Absolutely! Tell me more about what you're looking for.",
+      "I can definitely assist you. What kind of dining experience are you hoping for?",
+      "Let's find the perfect spot for you. What kind of food are you craving?",
+      "I'm happy to help! Do you have any specific requirements, like dietary restrictions?",
+      "No problem! What's your budget and preferred location?",
+      "I can help you with that! What type of cuisine are you interested in?",
+      "Sure, let me help you find the perfect restaurant. What kind of food are you looking for?"
+    ]
+  },
+  {
+    "tag": "restaurant_information",
+    "patterns": [
+      "Tell me about this restaurant",
+      "What's the address of this restaurant?",
+      "What are their phone number?",
+      "What are their opening hours?",
+      "Do they have a website?",
+      "What's the menu like?",
+      "Do they have any special offers?",
+      "Do they have outdoor seating?",
+      "Do they have parking?",
+      "Is it wheelchair accessible?",
+      "Do they have a kids' menu?",
+      "Do they accept reservations?",
+      "What's the dress code?",
+      "What's the atmosphere like?",
+      "What kind of music do they play?",
+      "Do they have live music?",
+      "What's the average price range?",
+      "Do they have any reviews?",
+      "What are people saying about this restaurant?",
+      "Can you give me more information about this restaurant?",
+      "What are some popular restaurants in Andhra Pradesh?",
+      "Can you name a few famous restaurants in [City/Region]?",
+      "Which restaurants are known for [Cuisine/Dish]?",
+      "I'm looking for restaurants with [Specific feature, e.g., 'seafood', 'views', 'authentic Andhra cuisine']",
+      "What are some highly-rated restaurants in Andhra Pradesh?",
+      "Give me some examples of well-regarded restaurants.",
+      "I need names of some good restaurants.",
+      "Can you suggest some restaurants with unique specialties?",
+      "I'm interested in restaurants with [Ambiance, e.g., 'traditional', 'modern', 'romantic']",
+      "What are some must-try restaurants in Andhra Pradesh?",
+      "Which restaurants are popular among locals?",
+      "I'm looking for restaurants with [Price range, e.g., 'budget-friendly', 'fine dining']",
+      "Can you recommend some restaurants with [Specific requirement, e.g., 'outdoor seating', 'live music']",
+      "What are some famous restaurants in [City/Region] known for [Cuisine/Dish]?",
+      "I'm looking for a restaurant in [City/Region] that specializes in [Cuisine/Dish]",
+      "Can you suggest some restaurants with [Specific feature, e.g., 'seafood', 'views', 'authentic Andhra cuisine'] in [City/Region]?",
+      "What are some highly-rated restaurants in [City/Region]?",
+      "Give me some examples of well-regarded restaurants in [City/Region].",
+      "I need names of some good restaurants in [City/Region].",
+      "Can you suggest some restaurants with unique specialties in [City/Region]?"
+    ],
+    "responses": [
+      "Here are a few well-regarded restaurants in Andhra Pradesh:Sri Venkateswara Annapoorna Restaurant (Guntur)Famous for its Andhra-style meals, especially the Gongura Pachadi and Pulusu.",
+      "Boardwalk Restaurant (Visakhapatnam): Offers stunning views of the Bay of Bengal and serves a variety of seafood dishes.",
+      "Rayalaseema Ruchulu (Hyderabad): Focuses on the spicy and flavorful cuisine of the Rayalaseema region, with dishes like Chicken Pulusu and Mirapakaya Bajji."
+    ]
+  }
+]
