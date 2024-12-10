@@ -301,20 +301,7 @@
     ],
     "responses": [
       "Here are a few well-regarded restaurants in Andhra Pradesh:Sri Venkateswara Annapoorna Restaurant (Guntur)Famous for its Andhra-style meals, especially the Gongura Pachadi and Pulusu.",
-      "Boardwalk Restaurant (Visakhapatnam): Offers stunning views of the Bay of Bengal and serves a variety of seafood dishes.",  
-    ]
-  }
-  ,
-  {
-    "tag": "RestaurantSearch",
-    "Patterns": [
-      "Find restaurants in [City]",
-      "Restaurants in [City]",
-      "Show me restaurants in [City]",
-      "I want to eat in [City], suggest some places"
-    ],
-    "responses": [
-      "Bezawada Dhaba: Benz circle",
+      "Boardwalk Restaurant (Visakhapatnam): Offers stunning views of the Bay of Bengal and serves a variety of seafood dishes.", "Bezawada Dhaba: Benz circle",
       "Cafe Terrase at Road No. 1, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008, India. It has a 4.7 star rating on Google Maps.",
       "90's Cafe & Restaurant at Plot:552, NH16 service road, service road, near Novotel, Service Road, Beside Union Bank, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008, India.1 It has a 4 star rating on Google Maps.   ",
       "[Restaurant 4 Name]: [Speciality] - [Location]",
@@ -338,7 +325,7 @@
       "Fruitify Café: 7, VIP Road, Lawyer Pet Extension, Ongole, Andhra Pradesh 523001, India. It has a 4 star rating on Google Maps.",
       "Lasya Grand Restaurant: near Chimakurthy Road, Samatha Nagar, Virat Nagar, Ongole, Andhra Pradesh 523001, India. It has a 4.8 star rating on Google Maps.",
       "Zeebu Restaurant & Cafe: NH 16, Highway Bridge, near Pelluru, opposite to Saibaba Central School, Pelluru, Ongole, Andhra Pradesh 523001, India. It has a 4.2 star rating on Google Maps.",
-      "Beyond Temptation: Balajiraopeta, beside poleramma temple complex, near Lawyer pet, Lawyer Pet, Ongole, Andhra Pradesh 523001, India. It has a 4.5 star rating on Google Maps."
+      "Beyond Temptation: Balajiraopeta, beside poleramma temple complex, near Lawyer pet, Lawyer Pet, Ongole, Andhra Pradesh 523001, India. It has a 4.5 star rating on Google Maps." 
     ]
   }
 ]
