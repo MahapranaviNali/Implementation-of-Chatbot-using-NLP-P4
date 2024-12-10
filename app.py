@@ -2,7 +2,6 @@ import os
 import json
 import datetime
 import csv
-import nltk
 import ssl
 import streamlit as st
 import random
